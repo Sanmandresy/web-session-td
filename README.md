@@ -1,6 +1,6 @@
-# Result summary
+# Pricing Component
 
-![Design preview for the Result summary](./design/desktop-design.jpg)
+![Design preview for Pricing component](./design/desktop-design-annually.jpg)
 
 Your task is to convert this design into HTML code (with CSS obviously).
 
